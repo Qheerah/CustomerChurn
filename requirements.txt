@@ -1,0 +1,8 @@
+numpy
+Pandas
+Scikit-learn
+LightGBM
+Joblib
+FastAPI
+Uvicorn
+Streamlit
