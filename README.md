@@ -43,7 +43,7 @@ During preprocessing:
 
 The dataset used in the analysis covers **1 December 2010 to 9 December 2011**.
 
-> The raw Excel dataset is not included in this repository. Place `Online Retail.xlsx` in `data/raw/`.
+
 
 ## Analysis
 
